@@ -1,0 +1,15 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "a bot which retweets some selected hash tag",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "Nikhil Bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "twit": "^2.2.11"
+  }
+}
